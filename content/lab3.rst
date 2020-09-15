@@ -19,7 +19,7 @@ Python порождает случайные числа на основе фор
 
 .. code-block:: python
 
-    from random import *
+    from random import random, randint
 
 Пока вам достаточно знать две функции из этого модуля:
 
